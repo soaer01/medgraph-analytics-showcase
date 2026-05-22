@@ -58,6 +58,7 @@ To explore this project at a high conceptual and architectural level, review the
 
 ---
 
+```
 📦 medgraph-analytics-showcase/
 │
 ├── 📄 README.md
@@ -67,6 +68,7 @@ To explore this project at a high conceptual and architectural level, review the
 │   ├── 🎥 Part-1-Architecting_MedGraph-Analytics.mp4
 │   ├── 🎥 Part-2-Results_Interpretation_MedGraph-Analytics.mp4
 └── 📄 LICENSE.md
+```
 
 ---
 
